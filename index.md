@@ -12,6 +12,7 @@ in the Digital Age.
 
 [LinkedIn](https://www.linkedin.com/in/elena-china-kolehmainen-958673143/) 
 [GitHub](https://github.com/Finitelanor)
+[CV](https://github.com/Finitelanor/Finitelanor.github.io/blob/master/assets/documents/Elanor_CV.pdf)
 
 ## Contact
 
