@@ -26,7 +26,7 @@ variation](https://courses.helsinki.fi/en/lda-3102/124898249), fall 2018
 digital age](https://courses.helsinki.fi/en/lda-3103/125889569), fall 
 2018
 
-[Theory adn Method 
+[Theory and Method 
 in language 
 sciences](https://courses.helsinki.fi/en/lda-3101/124884457), fall
 2018
