@@ -4,11 +4,14 @@ layout: default
 
 ## Introduction
 
-Lorem ipsum dolor sit amet, consectetur adipisci elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquid ex ea commodi consequat. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+I'm quite an adult cat already and I graduated a few years ago but I'm 
+back to University of Helsinki and now majoring in Linguistic Diversity 
+in the Digital Age. 
 
 ## Find me on
 
-[LinkedIn](https://fi.linkedin.com/mouse-mousekewitz), [GitHub](https://github.com/mokewitz)
+[LinkedIn](https://www.linkedin.com/in/elena-china-kolehmainen-958673143/) 
+[GitHub](https://github.com/Finitelanor)
 
 ## Contact
 
@@ -16,12 +19,25 @@ My email address is of the form first_name.last_name@helsinki.fi.
 
 ## Courses I've Taken
 
-[Enjoying Cheese I](https://courses.helsinki.fi/enjoying-cheese-I), fall 2018
+[Diversity and 
+variation](https://courses.helsinki.fi/en/lda-3102/124898249), fall 2018
 
-[Feline Avoidance](https://courses.helsinki.fi/feline-avoidance), fall 2018
+[Linguistics int he 
+digital age](https://courses.helsinki.fi/en/lda-3103/125889569), fall 
+2018
+
+[Theory adn Method 
+in language 
+sciences](https://courses.helsinki.fi/en/lda-3101/124884457), fall
+2018
+
+[Ohjelmoinnin 
+perusteet](https://courses.helsinki.fi/en/tkt10002/124961724), fall
+2018
 
 ## Projects
 
 ## Misc. 
 
-[Gotta Love Cheese](https://en.wikipedia.org/wiki/Cheese) 
+[I like 
+ice-cream](https://www.google.com/search?client=safari&rls=en&q=ice-cream+wikipedia&ie=UTF-8&oe=UTF-8) 
