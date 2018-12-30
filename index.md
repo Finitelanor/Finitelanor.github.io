@@ -23,7 +23,7 @@ My email address is of the form first_name.last_name@helsinki.fi.
 [Diversity and 
 variation](https://courses.helsinki.fi/en/lda-3102/124898249), fall 2018
 
-[Linguistics int he 
+[Linguistics in the 
 digital age](https://courses.helsinki.fi/en/lda-3103/125889569), fall 
 2018
 
