@@ -31,3 +31,13 @@ desperately trying to finish it.
 7. # Building Webpages using GitHub Pages
 If you can handle Github with command lines you are a certified nerd.
 
+| Week          | Subject       | Difficulty  |
+| ------------- |:-------------:|       -----:|
+| 1             | Introduction  |     3       |
+| 2             | Navigating    |     3       |
+| 3             | Corpus        |     5       |
+| 4             | Scripting     |     4       |
+| 5             | Installing    |     3       |
+| 6             | Version cont. |     4       |
+| 7             | Github        |     4       |
+
